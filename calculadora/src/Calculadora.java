@@ -5,9 +5,7 @@
  */
 
 
-/**Prueba de edición directamente en el repositorio
- *añadiendo nuevo comentario desde Netbeans
- * @author María Dolores Romero Martínez
+/**cometario
  * @version 23/03/20 v.1
  */
 public class Calculadora {
