@@ -7,7 +7,7 @@
 
 /**cometario
  *comentario desde consola Github
- * comentario2
+ * comentario 2
  * @version 23/03/20 v.1
  */
 public class Calculadora {
