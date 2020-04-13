@@ -6,7 +6,7 @@
 
 
 /**Prueba de edición directamente en el repositorio
- *
+ *añadiendo nuevo comentario desde Netbeans
  * @author María Dolores Romero Martínez
  * @version 23/03/20 v.1
  */
